@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I'm a college student.
+- intersted in Big data analystics.
 <!--
 **cmg5691/cmg5691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
